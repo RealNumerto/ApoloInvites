@@ -1,0 +1,27 @@
+{
+  "name": "invite-manager",
+  "version": "1.0.0",
+  "description": "This bot is a simple Invite Manager. The data it invite activities. Serendia Squad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "invite",
+    "manager",
+    "invite-manager",
+    "discord",
+    "Numerto"
+  ],
+  "author": "Numerto",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "discordbot-script": "^2.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
